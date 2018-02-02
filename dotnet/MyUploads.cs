@@ -1,5 +1,3 @@
-﻿/*
-
 using System;
 using System.IO;
 using System.Reflection;
@@ -18,7 +16,7 @@ namespace Google.Apis.YouTube.Samples
   /// <summary>
   /// YouTube Data API v3 sample: retrieve my uploads.
   /// Relies on the Google APIs Client Library for .NET, v1.7.0 or higher.
-  /// See https://code.google.com/p/google-api-dotnet-client/wiki/GettingStarted
+  /// See https://developers.google.com/api-client-library/dotnet/get_started
   /// </summary>
   internal class MyUploads
   {
